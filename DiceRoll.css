@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+h1 {
+    color: #EA4445;
+    margin-top: 20%;
+    font-size: 32px; 
+}
+
+button {
+    background-color: #a34c50;
+    color: #f1f1f1;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 4px;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+table {
+    color: #CEC2AE;
+    margin: 0 auto;
+}
+
+div {
+    text-align: center;
+}
